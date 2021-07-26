@@ -1,0 +1,8 @@
+Important files to import:-
+
+1- open cv
+   pip install open cv
+
+2- Run snapfilter file for the main PROGRAM 
+
+PRESS "Q" TO EXIT THE PROGRAM
